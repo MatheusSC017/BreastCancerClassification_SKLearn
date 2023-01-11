@@ -1,2 +1,3 @@
 # BreastCancerClassification_SKLearn
-Aplicação das técnicas de Machine Learning através das funções e classes da biblioteca SKLearn para a realização da predição dos Diagnosticos do DataSet BreastCancer. Esse Script trata-se do uso de técnica de classificação para predição dos resultados rotulados.
+
+Application of Machine Learning techniques through the functions and classes of the SKLearn library to predict the Diagnostics of the BreastCancer DataSet. This Script is about the use of a classification technique to predict the labeled results.
